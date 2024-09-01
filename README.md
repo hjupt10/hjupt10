@@ -8,6 +8,7 @@ I'm currently a student at the Seoul Foreign School 🎓, where I balance my tim
 - 🏊 I’m a competitive swimmer
 - 💻 I love coding and exploring new technologies
 - 📈 I’m passionate about economics and investment
+- I am 13 years old soon turning 14
 
 ### My Skills
 
@@ -19,12 +20,7 @@ Here are some of the skills and tools I use:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
-### Pinned Repositories
 
-Here are some of my favorite projects:
-
-- [Project 1](https://github.com/YourUsername/Project1)
-- [Project 2](https://github.com/YourUsername/Project2)
 
 ### Connect with Me
 
@@ -32,7 +28,7 @@ You can find me on:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
 - 🐦 [Twitter](https://twitter.com/yourtwitter)
-- 📧 Email: your.email@example.com
+- 📧 Email: hjupt10@gmail.com
 
 ---
 
